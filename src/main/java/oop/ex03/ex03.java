@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Exercise 03 Solution
+ *  Copyright 2021 Theodore Linardic
+ */
+
 package oop.ex03;
 import java.util.Scanner;
 
